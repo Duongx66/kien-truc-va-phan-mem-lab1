@@ -1,0 +1,14 @@
+D:\Dowload ổ D\he-thong\TodoApp\TodoApp\bin\Debug\net8.0\TodoApp.exe
+D:\Dowload ổ D\he-thong\TodoApp\TodoApp\bin\Debug\net8.0\TodoApp.deps.json
+D:\Dowload ổ D\he-thong\TodoApp\TodoApp\bin\Debug\net8.0\TodoApp.runtimeconfig.json
+D:\Dowload ổ D\he-thong\TodoApp\TodoApp\bin\Debug\net8.0\TodoApp.dll
+D:\Dowload ổ D\he-thong\TodoApp\TodoApp\bin\Debug\net8.0\TodoApp.pdb
+D:\Dowload ổ D\he-thong\TodoApp\TodoApp\obj\Debug\net8.0\TodoApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dowload ổ D\he-thong\TodoApp\TodoApp\obj\Debug\net8.0\TodoApp.AssemblyInfoInputs.cache
+D:\Dowload ổ D\he-thong\TodoApp\TodoApp\obj\Debug\net8.0\TodoApp.AssemblyInfo.cs
+D:\Dowload ổ D\he-thong\TodoApp\TodoApp\obj\Debug\net8.0\TodoApp.csproj.CoreCompileInputs.cache
+D:\Dowload ổ D\he-thong\TodoApp\TodoApp\obj\Debug\net8.0\TodoApp.dll
+D:\Dowload ổ D\he-thong\TodoApp\TodoApp\obj\Debug\net8.0\refint\TodoApp.dll
+D:\Dowload ổ D\he-thong\TodoApp\TodoApp\obj\Debug\net8.0\TodoApp.pdb
+D:\Dowload ổ D\he-thong\TodoApp\TodoApp\obj\Debug\net8.0\TodoApp.genruntimeconfig.cache
+D:\Dowload ổ D\he-thong\TodoApp\TodoApp\obj\Debug\net8.0\ref\TodoApp.dll

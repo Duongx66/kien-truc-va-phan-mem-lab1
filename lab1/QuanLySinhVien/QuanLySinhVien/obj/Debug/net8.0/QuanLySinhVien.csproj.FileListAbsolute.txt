@@ -1,0 +1,14 @@
+D:\Dowload ổ D\he-thong\QuanLySinhVien\QuanLySinhVien\bin\Debug\net8.0\QuanLySinhVien.exe
+D:\Dowload ổ D\he-thong\QuanLySinhVien\QuanLySinhVien\bin\Debug\net8.0\QuanLySinhVien.deps.json
+D:\Dowload ổ D\he-thong\QuanLySinhVien\QuanLySinhVien\bin\Debug\net8.0\QuanLySinhVien.runtimeconfig.json
+D:\Dowload ổ D\he-thong\QuanLySinhVien\QuanLySinhVien\bin\Debug\net8.0\QuanLySinhVien.dll
+D:\Dowload ổ D\he-thong\QuanLySinhVien\QuanLySinhVien\bin\Debug\net8.0\QuanLySinhVien.pdb
+D:\Dowload ổ D\he-thong\QuanLySinhVien\QuanLySinhVien\obj\Debug\net8.0\QuanLySinhVien.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dowload ổ D\he-thong\QuanLySinhVien\QuanLySinhVien\obj\Debug\net8.0\QuanLySinhVien.AssemblyInfoInputs.cache
+D:\Dowload ổ D\he-thong\QuanLySinhVien\QuanLySinhVien\obj\Debug\net8.0\QuanLySinhVien.AssemblyInfo.cs
+D:\Dowload ổ D\he-thong\QuanLySinhVien\QuanLySinhVien\obj\Debug\net8.0\QuanLySinhVien.csproj.CoreCompileInputs.cache
+D:\Dowload ổ D\he-thong\QuanLySinhVien\QuanLySinhVien\obj\Debug\net8.0\QuanLySinhVien.dll
+D:\Dowload ổ D\he-thong\QuanLySinhVien\QuanLySinhVien\obj\Debug\net8.0\refint\QuanLySinhVien.dll
+D:\Dowload ổ D\he-thong\QuanLySinhVien\QuanLySinhVien\obj\Debug\net8.0\QuanLySinhVien.pdb
+D:\Dowload ổ D\he-thong\QuanLySinhVien\QuanLySinhVien\obj\Debug\net8.0\QuanLySinhVien.genruntimeconfig.cache
+D:\Dowload ổ D\he-thong\QuanLySinhVien\QuanLySinhVien\obj\Debug\net8.0\ref\QuanLySinhVien.dll
